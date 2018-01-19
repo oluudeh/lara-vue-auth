@@ -2,7 +2,7 @@
 A repo for laravel vue authentication tutorial.
 
 # How to run 
-1. clone the repo
+1. Clone the repo
 2. Run 
  	`composer install`
 3. Run 
